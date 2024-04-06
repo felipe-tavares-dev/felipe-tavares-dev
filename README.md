@@ -26,7 +26,7 @@
 ## Hello, my name is Felipe Tavares 👋. 
 <p align="center"> 
  Visitor counter <br>
-  <img src="https://profile-counter.glitch.me/natorjunior/count.svg" />
+  <img src="https://profile-counter.glitch.me/felipe-tavares-dev/count.svg" />
 </p>
 
 
